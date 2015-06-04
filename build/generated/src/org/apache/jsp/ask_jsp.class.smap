@@ -1,0 +1,12 @@
+SMAP
+ask_jsp.java
+JSP
+*S JSP
+*F
++ 0 ask.jsp
+ask.jsp
+*L
+1,5:49
+6,33:55
+38,7:88
+*E

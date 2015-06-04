@@ -1,0 +1,20 @@
+SMAP
+faculty_005fquery_jsp.java
+JSP
+*S JSP
+*F
++ 0 faculty_query.jsp
+faculty_query.jsp
+*L
+1,6:49
+9,58:58
+66,3:116
+68,5:119
+72:124
+73:125,3
+74,2:128
+75,2:130
+76,3:132
+79:135,3
+80,7:138
+*E
